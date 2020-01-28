@@ -1,0 +1,33 @@
+.userForm {
+  width: 80%;
+  margin: 0 auto;
+  border: 1px solid #eb3b5a;
+  border-radius: 2%;
+  height: 400px;
+}
+.userForm form {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  text-align: center;
+  justify-content: center;
+  color: #eb3b5a;
+  padding: 30px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+}
+.userForm input {
+  width: 40%;
+  margin: 10px auto;
+}
+.userForm button {
+  width: 120px;
+  height: 30px;
+  margin: 20px auto;
+  border: 1px solid #eb3b5a;
+  border-radius: 5px;
+  background-color: #eb3b5a;
+  color: white;
+}
+
+/*# sourceMappingURL=index.css.map */
